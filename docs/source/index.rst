@@ -9,9 +9,7 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-askjkdaskjdasdas
-dasdasd
-asdasdasdasd
+testing
 
 .. note::
 
