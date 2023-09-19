@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HOL-Predictive-Analytics'
+copyright = '2023, WG22-1, Wiryahadi Gunawan'
+author = 'WG22-1'
 
 release = '0.1'
 version = '0.1.0'

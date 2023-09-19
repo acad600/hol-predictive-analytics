@@ -1,24 +1,39 @@
-Welcome to Lumache's documentation!
-===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-testing
+Hands-On Lab Predictive Analytics
+=================================
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
+Konten
+------
 
 .. toctree::
+   :caption: Regression
 
-   usage
-   api
+.. toctree::
+   :caption: Forecasting with Moving Average
+
+.. toctree::
+   :caption: Forecasting with Time Series: Smoothing
+
+.. toctree::
+   :caption: Advanced Smoothing Model
+
+.. toctree::
+   :caption: Binomial Logistic Regression
+
+.. toctree::
+   :caption: Multinomial Logistic Regression
+
+.. toctree::
+   :caption: Market Basket Analysis
+
+.. toctree::
+   :caption: Naïve Bayes Classifier
+
+.. toctree::
+   :caption: K-Means Cluster
+
+.. toctree::
+   :caption: Soal Latihan
