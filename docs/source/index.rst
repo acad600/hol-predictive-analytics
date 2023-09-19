@@ -57,4 +57,9 @@ Konten
 .. toctree::
    :caption: Soal Latihan
 
-   exercise
+   exercise/linear_regression
+   
+.. toctree::
+   :caption: Pembahasan Soal Latihan
+
+   answer/linear_regression

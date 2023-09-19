@@ -1,3 +1,5 @@
+.. _pembahasan_linear_regression:
+
 Pembahasan Linear Regression
 ============================
 
