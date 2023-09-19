@@ -10,6 +10,8 @@ Konten
 
 .. toctree::
    :caption: Regression
+   
+   regression/linear
 
 .. toctree::
    :caption: Forecasting with Moving Average
