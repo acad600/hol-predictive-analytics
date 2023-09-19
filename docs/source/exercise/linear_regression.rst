@@ -2,4 +2,4 @@
 Soal Linear Regression
 ======================
 
-**Pembahasan:** :ref:`Linear Regression<_pembahasan_linear_regression>`
+**Pembahasan:** :ref:`Linear Regression<pembahasan_linear_regression>`
