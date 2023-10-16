@@ -5,6 +5,12 @@ Hands-On Lab Predictive Analytics
 
    This project is under active development.
 
+Perkenalan
+==========
+
+Apa itu Predictive Analytics
+----------------------------
+
 Konten
 ------
 
