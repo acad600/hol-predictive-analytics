@@ -23,12 +23,12 @@ Konten
 .. toctree::
    :caption: Forecasting with Moving Average
 
-   forecasting/moving_average
+   forecasting/moving_average/moving_average
 
 .. toctree::
    :caption: Forecasting with Time Series: Smoothing
 
-   forecasting/time_series
+   forecasting/time_series/time_series
 
 .. toctree::
    :caption: Advanced Smoothing Model
@@ -64,8 +64,3 @@ Konten
    :caption: Soal Latihan
 
    exercise/linear_regression
-   
-.. toctree::
-   :caption: Pembahasan Soal Latihan
-
-   answer/linear_regression
